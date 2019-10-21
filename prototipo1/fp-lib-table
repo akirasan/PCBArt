@@ -1,0 +1,3 @@
+(fp_lib_table
+  (lib (name prototipo1)(type KiCad)(uri ${LOCAL}/Github_ripolab/prototipo1/prototipo1.pretty)(options "")(descr ""))
+)

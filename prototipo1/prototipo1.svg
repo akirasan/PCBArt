@@ -1,0 +1,222 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="60.0mm"
+   height="45.0mm"
+   viewBox="0 0 60.0 45.0"
+   version="1.1"
+   id="svg8"
+   inkscape:version="0.92.4 (5da689c313, 2019-01-14)"
+   sodipodi:docname="prototipo1.svg">
+  <defs
+     id="defs2" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="4.7061538"
+     inkscape:cx="106.35773"
+     inkscape:cy="82.784021"
+     inkscape:document-units="mm"
+     inkscape:current-layer="g825"
+     showgrid="true"
+     inkscape:window-width="1860"
+     inkscape:window-height="1016"
+     inkscape:window-x="60"
+     inkscape:window-y="27"
+     inkscape:window-maximized="1"
+     borderlayer="true">
+    <inkscape:grid
+       spacingx="2.54"
+       spacingy="2.54"
+       empspacing="1"
+       type="xygrid"
+       units="mm"
+       id="grid816" />
+    <inkscape:grid
+       id="grid907"
+       units="mm"
+       type="xygrid"
+       empspacing="1"
+       spacingy="2.54"
+       spacingx="2.54" />
+  </sodipodi:namedview>
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     id="g823"
+     sodipodi:insensitive="true"
+     inkscape:groupmode="layer"
+     inkscape:label="[fixed] BG">
+    <rect
+       id="rect821"
+       style="fill:#ffffff;fill-opacity:1;stroke:none"
+       height="34"
+       width="60"
+       y="0"
+       x="0" />
+  </g>
+  <g
+     id="g825"
+     inkscape:groupmode="layer"
+     inkscape:label="Edge.Cuts">
+    <path
+       style="fill:none;fill-rule:evenodd;stroke:#f90000;stroke-width:0.16198629;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 47.863361,6.1988529 -0.319579,1.0025527 -0.278326,1.0193599 -0.238408,1.0322877 -0.199818,1.0413408 -0.162563,1.046508 -0.126626,1.0478 -0.09205,1.045217 -0.05877,1.038753 -0.02684,1.02841 0.0037,1.014186 0.03304,0.99609 0.06099,0.974111 0.0876,0.948257 0.112882,0.918523 0.136834,0.884908 0.159451,0.84742 0.180749,0.806051 0.200706,0.760801 0.219335,0.711677 0.236635,0.658675 0.252601,0.60179 0.267238,0.541029 0.280546,0.476391 0.292521,0.407871 0.303167,0.33548 0.312479,0.259201 0.320465,0.17905 0.32712,0.09501 0.332439,0.007 0.336432,-0.08467 0.339095,-0.180343 0.340424,-0.279888 0.483267,-0.439133 0.485085,-0.382728 0.485071,-0.32841 0.483218,-0.276197 0.479534,-0.226076 0.474014,-0.178052 0.466657,-0.132118 0.45747,-0.08829 0.446448,-0.04655 0.433586,-0.0069 0.418898,0.03063 0.402369,0.06607 0.384008,0.09943 0.363811,0.130697 0.341781,0.159851 0.317914,0.186913 0.292216,0.211882 0.264682,0.234755 0.235311,0.255531 0.20411,0.274211 0.171071,0.290797 0.136186,0.305283 0.09949,0.317678 0.06095,0.327972 0.02056,0.336173 -0.02163,0.342277 -0.06568,0.346287 -0.111556,0.348197 -0.159283,0.348014 -0.208825,0.345735 -0.260207,0.34136 -0.313425,0.334886 -0.330445,0.351097 -0.311818,0.389237 -0.295845,0.42414 -0.282543,0.455815 -0.535808,0.993719 -0.514517,1.081628 -1.050327,2.323562 -0.578389,1.190224 -0.642259,1.174705 -0.351734,0.57346 -0.375687,0.55988 -0.402299,0.543077 -0.431578,0.523039 -0.463508,0.499768 -0.498104,0.473269 -0.535366,0.443529 -0.575283,0.410567 -0.617867,0.374369 -0.663107,0.33494 -0.711008,0.292276 -0.761575,0.246382 -0.814801,0.197256 -0.870691,0.144892 -0.929237,0.08929 -0.990446,0.0305 -1.980907,-0.03128 -1.872492,-0.08842 -1.790369,-0.137396 -1.734532,-0.1782 -1.704983,-0.210847 -1.701726,-0.235335 -3.498832,-0.511476 -1.849686,-0.259817 -1.951583,-0.251656 -2.079769,-0.235336 -2.234245,-0.210847 -2.415007,-0.178199 -2.622064,-0.137394 -2.855406,-0.08842 -3.115015,-0.03126 -1.7418293,0.1327 -0.8055631,0.02936 -0.762802,0.0055 -0.7206462,-0.01829 -0.6790938,-0.0414 -0.6381,-0.06403 -0.597797,-0.08626 L 4.3192339,42.094156 3.8003188,41.964859 3.3199382,41.81473 2.8774911,41.644234 2.4723703,41.453828 2.1039757,41.243968 1.7717022,41.015117 1.4749451,40.767735 1.2131033,40.502276 0.98557213,40.219204 0.79174893,39.918977 0.63103223,39.602052 0.50281727,39.268893 0.40649002,38.919953 0.341452,38.555694 0.30710537,38.176577 0.30283075,37.783058 0.32805669,37.375599 0.38216281,36.954658 0.46453708,36.520691 0.71170933,35.61553 1.0647397,34.663788 1.5187992,33.669136 2.06906,32.635251 2.7106951,31.565803 3.438875,30.464466 4.2487691,29.334917 5.1355528,28.180824 6.094396,27.005865 l 1.0260748,-1.192153 1.0884767,-1.205675 1.1460533,-1.215523 1.1988032,-1.221695 1.246714,-1.224199 1.289805,-1.223025 1.328066,-1.218178 1.361499,-1.20966 1.390101,-1.197465 1.413879,-1.181601 1.432827,-1.162059 1.446945,-1.138848 1.456266,-1.112023 1.460699,-1.081401 1.460332,-1.0471702 1.455135,-1.0092626 1.445117,-0.96768 1.430264,-0.922426 1.410583,-0.8734993 1.386079,-0.8208999 1.356738,-0.7646253 1.322577,-0.7046779 1.283583,-0.6410564 1.239762,-0.5737638 1.191112,-0.5027957 1.137632,-0.4281551 1.079329,-0.34984037 1.016192,-0.26785318 0.94823,-0.18219171 0.875438,-0.0928573 0.408913,-0.0117811 0.388903,0.0119297 0.368294,0.0361007 0.347077,0.0607318 0.325257,0.0858169 0.302836,0.11137124 0.279806,0.13737512 0.25618,0.16384053 0.231944,0.19076537 0.207111,0.2181504 0.181668,0.2459945 0.155626,0.2742978 0.128989,0.3030602 0.101731,0.3322802 0.07386,0.3619606 0.04541,0.3921016 0.01639,0.4226989 -0.01324,0.4537579 -0.04359,0.4852749 -0.07447,0.5172508 -0.243942,1.1322681 v 0"
+       id="path857"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cssscc" />
+  </g>
+  <g
+     id="g827"
+     inkscape:groupmode="layer"
+     inkscape:label="B.Cu">
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.94229412px;line-height:125%;font-family:'Changa One';-inkscape-font-specification:'Changa One, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#ff0000;fill-opacity:1;stroke:none;stroke-width:0.22356351px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="-52.089241"
+       y="-1.6333354"
+       id="text1585"
+       transform="matrix(-0.8190607,-0.57370686,-0.57370686,0.8190607,0,0)"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.94229412px;font-family:'Changa One';-inkscape-font-specification:'Changa One, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#ff0000;stroke-width:0.22356351px"
+         y="-1.6333354"
+         x="-52.089241"
+         id="tspan1583"
+         sodipodi:role="line">B.Cu</tspan></text>
+  </g>
+  <g
+     id="g829"
+     inkscape:groupmode="layer"
+     inkscape:label="B.Mask">
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.94229412px;line-height:125%;font-family:'Changa One';-inkscape-font-specification:'Changa One, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#0000ff;fill-opacity:1;stroke:none;stroke-width:0.22356351px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="-57.621311"
+       y="32.85973"
+       id="text1589"
+       transform="matrix(-0.99702783,-0.0770423,-0.0770423,0.99702783,0,0)"><tspan
+         sodipodi:role="line"
+         id="tspan1587"
+         x="-57.621311"
+         y="32.85973"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.94229412px;font-family:'Changa One';-inkscape-font-specification:'Changa One, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#0000ff;stroke-width:0.22356351px">B.Mask</tspan></text>
+  </g>
+  <g
+     id="g831"
+     inkscape:groupmode="layer"
+     inkscape:label="B.Silk">
+    <text
+       transform="matrix(-0.99914323,-0.04138608,-0.04138608,0.99914323,0,0)"
+       id="text1593"
+       y="41.403606"
+       x="-51.576862"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.94229412px;line-height:125%;font-family:'Changa One';-inkscape-font-specification:'Changa One, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#1a1a1a;fill-opacity:1;stroke:none;stroke-width:0.22356351px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       xml:space="preserve"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.94229412px;font-family:'Changa One';-inkscape-font-specification:'Changa One, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#1a1a1a;stroke-width:0.22356351px"
+         y="41.403606"
+         x="-51.576862"
+         id="tspan1591"
+         sodipodi:role="line">B.Silk</tspan></text>
+  </g>
+  <g
+     id="g833"
+     inkscape:groupmode="layer"
+     inkscape:label="F.Cu">
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.94229412px;line-height:125%;font-family:'Changa One';-inkscape-font-specification:'Changa One, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#ff0000;fill-opacity:1;stroke:none;stroke-width:0.22356351px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="5.8747101"
+       y="29.213989"
+       id="text977"
+       transform="rotate(-30.352099)"><tspan
+         sodipodi:role="line"
+         id="tspan975"
+         x="5.8747101"
+         y="29.213989"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.94229412px;font-family:'Changa One';-inkscape-font-specification:'Changa One, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#ff0000;stroke-width:0.22356351px">F.Cu</tspan></text>
+  </g>
+  <g
+     id="g835"
+     inkscape:groupmode="layer"
+     inkscape:label="F.Mask">
+    <text
+       transform="rotate(-15.461134)"
+       id="text971"
+       y="34.620506"
+       x="-2.8111362"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.94229412px;line-height:125%;font-family:'Changa One';-inkscape-font-specification:'Changa One, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#ff00ff;fill-opacity:1;stroke:none;stroke-width:0.22356351px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       xml:space="preserve"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.94229412px;font-family:'Changa One';-inkscape-font-specification:'Changa One, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#ff00ff;stroke-width:0.22356351px"
+         y="34.620506"
+         x="-2.8111362"
+         id="tspan969"
+         sodipodi:role="line">F.Mask</tspan></text>
+  </g>
+  <g
+     id="g837"
+     inkscape:groupmode="layer"
+     inkscape:label="F.Silk">
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.94229412px;line-height:125%;font-family:'Changa One';-inkscape-font-specification:'Changa One, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.22356351px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="5.3337736"
+       y="39.082531"
+       id="text861"
+       transform="rotate(5.8895742)"><tspan
+         sodipodi:role="line"
+         id="tspan859"
+         x="5.3337736"
+         y="39.082531"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.94229412px;font-family:'Changa One';-inkscape-font-specification:'Changa One, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#000000;stroke-width:0.22356351px">F.Silk</tspan></text>
+    <text
+       transform="rotate(-17.837765)"
+       id="text988"
+       y="24.617077"
+       x="32.35865"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.31024027px;line-height:125%;font-family:'Changa One';-inkscape-font-specification:'Changa One, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.10775898px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       xml:space="preserve"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.31024027px;font-family:'Changa One';-inkscape-font-specification:'Changa One, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;stroke-width:0.10775898px"
+         y="24.617077"
+         x="32.35865"
+         id="tspan986"
+         sodipodi:role="line">Drill</tspan></text>
+  </g>
+  <g
+     id="g839"
+     inkscape:groupmode="layer"
+     inkscape:label="Drill">
+    <circle
+       style="opacity:1;fill:none;fill-opacity:1;fill-rule:nonzero;stroke:#f900ff;stroke-width:0.1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:fill markers stroke"
+       id="path981"
+       cx="43.315514"
+       cy="5.1441479"
+       r="2.977613" />
+    <circle
+       r="2.977613"
+       cy="7.7303009"
+       cx="36.681469"
+       id="circle984"
+       style="opacity:1;fill:none;fill-opacity:1;fill-rule:nonzero;stroke:#f900ff;stroke-width:0.1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:fill markers stroke" />
+  </g>
+</svg>
